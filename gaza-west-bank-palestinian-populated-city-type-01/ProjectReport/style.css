@@ -1,0 +1,16 @@
+h3 {
+border-top: 15px blue;
+font-family: Lato, roboto;
+}
+p {
+font-size: 20px;
+font-family: Lato, roboto;
+}
+10
+.my-popup .mapboxgl-popup-content {
+width: 200px;
+background: rgba(83, 92, 104,0.9);
+border-top: 50px black;
+padding: 20px;
+color: white;
+}
